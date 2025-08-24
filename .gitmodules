@@ -1,0 +1,3 @@
+[submodule "newfoldername/git-practice"]
+	path = newfoldername/git-practice
+	url = https://github.com/EclipseDeath/git-practice.git
